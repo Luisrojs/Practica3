@@ -1,4 +1,4 @@
-import React from "react";
+import burguerMenu from "../assets/icon-hamburger.svg";
 
 export const Navbar = () => {
   return (
@@ -9,6 +9,9 @@ export const Navbar = () => {
         <li>Projects</li>
         <li>Contact</li>
       </ul>
+      <div>
+        <img src={burguerMenu} alt="icono de menu"/>
+      </div>
     </nav>
   );
 };
