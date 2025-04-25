@@ -3,7 +3,7 @@ import { Navbar } from "./Navbar";
 
 export const Header = () => {
   return (
-    <header class="bg-red-500">
+    <header class="relative bg-red-500">
       <img src={logo} alt="Logo" />
       <Navbar />
     </header>
