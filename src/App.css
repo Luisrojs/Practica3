@@ -3,8 +3,8 @@
 @theme {
   /* Pimary */
 
-  --font-Barlow: Barlow, sans-serif;
-  --font-Fraunces: Fraunces, sans-serif;
+  --font-Barlow: Barlow;
+  --font-Fraunces: Fraunces;
   --color-Myyellow: hsl(51, 100%, 49%);
   --color-SoftRed: hsl(7, 99%, 70%);
   --color-DarkDesaturatedCyan(graphic design text): hsl(167, 40%, 24%);
